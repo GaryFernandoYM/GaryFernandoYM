@@ -1,4 +1,3 @@
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GaryFernandoYM&show_icons=true)](https://github.com/GaryFernandoYM)
 https://github-profile-trophy.vercel.app/?GaryFernandoYM=ryo-ma&theme=algolia
 ### Hi there 👋
 
