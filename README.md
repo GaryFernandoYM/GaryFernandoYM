@@ -1,4 +1,3 @@
-https://github-profile-trophy.vercel.app/?GaryFernandoYM=ryo-ma&theme=algolia
 ### Hi there 👋
 
 
