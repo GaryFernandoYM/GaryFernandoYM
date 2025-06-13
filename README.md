@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Soy+Ingeniero+de+Sistemas+..&hearts;++;Desarrollador+Fullstack;Apasionado+por+la+IA+y+la+Visión+por+Computadora;Proyectos+en+Flutter,+Laravel+y+YOLO;"></a>
 </p>
 
-![Sistema Inteligente de Evaluación](https://github.com/TU_USUARIO/TU_REPO/assets/BANNER_ID)
+![Sistema Inteligente de Evaluación](https://github.com/GaryFernandoYM/TU_REPO/assets/BANNER_ID)
 
 [![GitHub followers](https://img.shields.io/github/followers/TU_USUARIO?style=social)](https://github.com/TU_USUARIO)
 
@@ -23,9 +23,9 @@ Soy estudiante de Ingeniería de Sistemas en la Universidad Peruana Unión. Desa
 <td width="50%">
 <h3 align="center">Sistema inteligente de estacionamiento</h3>
 <div align="center">
-<img src="https://github.com/TU_USUARIO/TU_REPO/assets/parking_img_demo" width="350">
+<img src="https://github.com/GaryFernandoYM/TU_REPO/assets/parking_img_demo" width="350">
 <p>
-<a href="https://github.com/TU_USUARIO/parking-ai" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-00d8ff?style=for-the-badge&logo=github&logoColor=black"></a>
+<a href="https://github.com/GaryFernandoYM/parking-ai" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-00d8ff?style=for-the-badge&logo=github&logoColor=black"></a>
 <a href="https://youtu.be/TU_VIDEO" target="_blank"><img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube"></a>
 </p>
 <p>Sistema de visión por computadora que detecta espacios ocupados/libres y mide el tiempo de estacionamiento en tiempo real. Desarrollado con YOLOv8, Flask y Flet.</p>
@@ -35,9 +35,9 @@ Soy estudiante de Ingeniería de Sistemas en la Universidad Peruana Unión. Desa
 <td width="50%">
 <h3 align="center">App de turismo inteligente</h3>
 <div align="center">
-<img src="https://github.com/TU_USUARIO/TU_REPO/assets/turismo_img_demo" width="350">
+<img src="https://github.com/GaryFernandoYM/TU_REPO/assets/turismo_img_demo" width="350">
 <p>
-<a href="https://github.com/TU_USUARIO/turiskuy" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-FF8800?style=for-the-badge&logo=github&logoColor=black"></a>
+<a href="https://github.com/GaryFernandoYM/turiskuy" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-FF8800?style=for-the-badge&logo=github&logoColor=black"></a>
 </p>
 <p>Aplicación móvil en Flutter para rastreo GPS en tiempo real de visitantes, análisis de zonas más visitadas y generación de reportes para emprendimientos turísticos.</p>
 </div>
@@ -70,6 +70,6 @@ Soy estudiante de Ingeniería de Sistemas en la Universidad Peruana Unión. Desa
 ## ⚙️ GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GaryFernandoYM&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaryFernandoYM&layout=compact&langs_count=8&theme=algolia"/>
 </p>
