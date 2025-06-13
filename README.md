@@ -6,7 +6,7 @@
 
 ![Sistema Inteligente de Evaluación](https://github.com/GaryFernandoYM/TU_REPO/assets/BANNER_ID)
 
-[![GitHub followers](https://img.shields.io/github/followers/TU_USUARIO?style=social)](https://github.com/TU_USUARIO)
+[![GitHub followers](https://img.shields.io/github/followers/GaryFernandoYM?style=social)](https://github.com/GaryFernandoYM)
 
 ---
 
