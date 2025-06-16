@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Soy+Ingeniero+de+Sistemas+..&hearts;++;Desarrollador+Fullstack;Apasionado+por+la+IA+y+la+Visión+por+Computadora;Proyectos+en+Flutter,+Laravel+y+YOLO;"></a>
 </p>
 
-![Sistema Inteligente de Evaluación](https://github.com/GaryFernandoYM/TU_REPO/assets/BANNER_ID)
+![Sistema Inteligente de Evaluación](https://github.com/GaryFernandoYM/GaryFernandoYM/sistemainteligente.jpg)
 
 [![GitHub followers](https://img.shields.io/github/followers/GaryFernandoYM?style=social)](https://github.com/GaryFernandoYM)
 
