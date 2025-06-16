@@ -23,7 +23,7 @@ Soy estudiante de Ingeniería de Sistemas en la Universidad Peruana Unión. Desa
 <td width="50%">
 <h3 align="center">Sistema inteligente de estacionamiento</h3>
 <div align="center">
-<img src="https://github.com/GaryFernandoYM/TU_REPO/assets/parking_img_demo" width="350">
+<img src="https://github.com/GaryFernandoYM/GaryFernandoYM/blob/main/estacionamiento.jpeg" width="350">
 <p>
 <a href="https://github.com/GaryFernandoYM/parking-ai" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-00d8ff?style=for-the-badge&logo=github&logoColor=black"></a>
 <a href="https://youtu.be/TU_VIDEO" target="_blank"><img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube"></a>
@@ -35,7 +35,7 @@ Soy estudiante de Ingeniería de Sistemas en la Universidad Peruana Unión. Desa
 <td width="50%">
 <h3 align="center">App de turismo inteligente</h3>
 <div align="center">
-<img src="https://github.com/GaryFernandoYM/TU_REPO/assets/turismo_img_demo" width="350">
+<img src="https://github.com/GaryFernandoYM/GaryFernandoYM/blob/main/Depositphotos_425358952_S.jpg" width="350">
 <p>
 <a href="https://github.com/GaryFernandoYM/turiskuy" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-FF8800?style=for-the-badge&logo=github&logoColor=black"></a>
 </p>
