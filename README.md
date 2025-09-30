@@ -70,10 +70,11 @@ Soy estudiante de Ingeniería de Sistemas en la Universidad Peruana Unión. Desa
 ## ⚙️ GitHub Stats
 <p align="center">
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=GaryFernandoYM&show_icons=true&theme=algolia&v=1" />
+       src="https://github-readme-stats-garyfernandoym.vercel.app/api?username=GaryFernandoYM&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=7200" />
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaryFernandoYM&layout=compact&langs_count=8&theme=algolia&v=1" />
+       src="https://github-readme-stats-garyfernandoym.vercel.app/api/top-langs/?username=GaryFernandoYM&layout=compact&langs_count=8&theme=algolia&cache_seconds=7200" />
 </p>
+
 
 
 
